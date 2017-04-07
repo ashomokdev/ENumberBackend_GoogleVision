@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="enumbers:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="enumbers-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="enumbers:war exploded" />
+    </root>
+  </artifact>
+</component>
